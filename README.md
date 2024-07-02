@@ -16,3 +16,4 @@ The system I created incorporates logic from various sources, such as: https://p
 ![15](https://github.com/delvinsalman/L-System/assets/90351386/f9191ea6-a12c-4008-a255-f55505e9ff1e)
 ![5](https://github.com/delvinsalman/L-System/assets/90351386/639f5813-594f-4c16-8354-f4213df13a83)
 ![2](https://github.com/delvinsalman/L-System/assets/90351386/fdb3b5b3-30cd-4ee6-a3b0-0b7dc95ddb3b)
+<img width="1512" alt="Screenshot 2024-07-02 at 7 41 31 PM" src="https://github.com/delvinsalman/L-System/assets/90351386/42fe2749-3caa-4f11-868c-76b3a0a7c912">
