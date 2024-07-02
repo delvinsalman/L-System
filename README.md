@@ -7,3 +7,12 @@ The system provides users with three pre-programmed tree styles, which can be ex
 
 
 The system I created incorporates logic from various sources, such as: https://paulbourke.net/fractals/lsys/. 
+
+
+## Display
+
+![1](https://github.com/delvinsalman/L-System/assets/90351386/1601c4a7-07e0-4968-8a43-e43ae98a7209)
+![14](https://github.com/delvinsalman/L-System/assets/90351386/4a01f0a0-347f-418c-87c0-2ef4f084c2b5)
+![15](https://github.com/delvinsalman/L-System/assets/90351386/f9191ea6-a12c-4008-a255-f55505e9ff1e)
+![5](https://github.com/delvinsalman/L-System/assets/90351386/639f5813-594f-4c16-8354-f4213df13a83)
+![2](https://github.com/delvinsalman/L-System/assets/90351386/fdb3b5b3-30cd-4ee6-a3b0-0b7dc95ddb3b)
