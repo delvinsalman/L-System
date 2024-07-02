@@ -14,6 +14,8 @@ Developed using p5.js on the local web with JavaScript, this project leverages t
 
 
 ## Display
+These photos below display the main designs I have created using my system, providing a better idea of what can be achieved. The system works through user interaction, where tapping or clicking forms the tree. Users can then utilize the GUI features to customize their creations and learn from the process.
+
 
 ![1](https://github.com/delvinsalman/L-System/assets/90351386/1601c4a7-07e0-4968-8a43-e43ae98a7209)
 ![14](https://github.com/delvinsalman/L-System/assets/90351386/4a01f0a0-347f-418c-87c0-2ef4f084c2b5)
